@@ -1,0 +1,67 @@
+.blog {
+    border: 2px solid rgb(48, 47, 47);
+    padding: 5px;
+    margin: 2px;
+}
+
+.beagle {
+    color: rgba(0, 0, 0, 1);
+}
+
+.p {
+    width: 1540.5126953125px;
+    height: 613.5435791015625px;
+    top: 94.4564208984375px;
+    left: 89px;
+
+}
+
+.dog>.h1 {
+    width: 962px;
+    height: 77px;
+    top: 742px;
+    left: 58px;
+
+}
+
+.img {
+    width: 20px;
+    height: 20px;
+}
+
+.dog {
+
+    width: 1051px;
+    height: 894px;
+    top: 742px;
+    left: 58px;
+
+}
+
+.More_image {
+    width: 245px;
+    height: 48px;
+    top: 1670px;
+    left: 58px;
+    color: black;
+}
+
+.Trivia {
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.list {
+    padding: 30px;
+    width: 1623px;
+    height: 469px;
+    top: 1795px;
+    left: 58px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
